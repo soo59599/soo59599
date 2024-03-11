@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={soo59599})](https://solved.ac/{soo59599})
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={soo5959}&theme=warm"/>
