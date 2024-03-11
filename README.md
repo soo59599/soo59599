@@ -8,4 +8,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo5959)](https://solved.ac/soo5959)
 
-<img src="http://mazandi.herokuapp.com/api?handle={soo5959}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=soo5959&theme=warm"/>
