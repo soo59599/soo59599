@@ -36,4 +36,15 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soo59599&layout=compact&bg_color=180,b8ecf9,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+        <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Solved </h2> <div align= "center"> 
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo5959)](https://solved.ac/soo5959)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soo5959)](https://solved.ac/soo5959)
+
+<img src="http://mazandi.herokuapp.com/api?handle=soo5959&theme=warm"/>
+    </div> 
+    </div>
     
