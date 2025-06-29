@@ -67,6 +67,14 @@
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:soo59599@naver.com"><img src="https://img.shields.io/badge/Email-soo59599@naver.com-blue?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://solved.ac/soo5959"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo5959"/></a>
+  <a href="mailto:soo59599@naver.com">
+    <img src="https://img.shields.io/badge/Email-soo59599@naver.com-blue?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://solved.ac/soo5959">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soo5959"/>
+  </a>
+</p>
+
